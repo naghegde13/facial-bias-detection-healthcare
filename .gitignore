@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Caffe model files (optional, if you don’t want to push weights)
+*.caffemodel
+
+# Logs and large files
+*.log
+*.pkl
+*.pickle
